@@ -1,0 +1,49 @@
+* {
+		box-sizing: border-box; 
+		
+}
+
+.navbar-toggle {
+	color: black;
+	
+}
+.navbar {
+	background-color: grey;
+	border-radius: 0px;
+	border: 2px solid black;
+}
+
+.container {
+	width: 95%;
+}
+
+.text-box {
+	height: 1000px;
+	background-color: grey;
+	margin-top: 35px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.text {
+	padding-top: 15px;
+}
+
+.nav-item {
+	text-align: center;
+	border-top: 2px solid black;
+
+}
+
+button {
+	text-align:center;
+	float:right;
+	position: absolute;
+	right: 0;
+	top: 15%;
+	
+}
+.navbar-collapse {
+	background-color: white;
+	width: 100%;
+}
